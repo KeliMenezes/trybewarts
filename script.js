@@ -5,7 +5,7 @@ function alertLogin() {
   const password = document.getElementById('senha').value;
 
   if (email === 'tryber@teste.com' && password === '123456') {
-    alert('Olá Tryber!');
+    alert('Olá, Tryber!');
   } else {
     alert('Email ou senha inválidos.');
   }
