@@ -60,10 +60,9 @@ main {
 }
 
 #trybewarts-forms-logo {
-  display: flex;
   height: 500px;
   width: 400px;
-  margin-left: 60%;
+  
 }
 
 .col {
@@ -71,4 +70,8 @@ main {
   width: 687px;
   justify-content: space-between;
   border: 1px solid blue;
+}
+#label-family{
+  display: flex;
+  flex-direction: column;
 }
