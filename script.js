@@ -12,3 +12,17 @@ function alertLogin() {
 }
 
 botaoEntrar.addEventListener('click', alertLogin);
+
+const buttonEnviar = document.querySelector('#submit-btn');
+buttonEnviar.addEventListener('click', (event) => {
+  event.preventDefault();
+});
+
+const agreement = document.querySelector('#agreement');
+agreement.addEventListener('change', (event) => {
+  if (event.target.checked) {
+    buttonEnviar.removeAttribute('disabled');
+  } else {
+    buttonEnviar.setAttribute('disabled', '');
+  }
+});
