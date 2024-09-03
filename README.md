@@ -1,10 +1,20 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Trybewarts
+
+Este é o projeto Trybewarts, uma aplicação web inspirada na escola de magia Trybe e no universo de Harry Potter. A aplicação inclui um formulário de login e um formulário de avaliação para os alunos.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Instalação](#instalação)
+
+## Descrição
+
+O projeto Trybewarts é uma aplicação web desenvolvida para fins educativos. Ele inclui um formulário de login e um formulário de avaliação com diferentes tipos de inputs, como campos de texto, radio buttons e checkboxes. O projeto utiliza HTML, CSS e JavaScript para criar uma interface de usuário interativa e responsiva.
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5.3.0
