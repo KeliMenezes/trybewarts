@@ -6,7 +6,7 @@ Este é o projeto Trybewarts, uma aplicação web inspirada na escola de magia T
 
 - [Descrição](#descrição)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
+
 
 ## Descrição
 
